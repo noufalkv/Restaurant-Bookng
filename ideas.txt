@@ -1,0 +1,11 @@
+Admins
+Owners
+============
+Resto (multiple)
+Menus
+Tables
+Orders
+============
+Customer details
+
+Owners =>
